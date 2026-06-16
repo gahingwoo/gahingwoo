@@ -4,7 +4,7 @@ Final-year high school student preparing to begin university. I work on low-leve
 
 - Built RK3576 software stacks across TF-A, OP-TEE, U-Boot, EDK2/UEFI, Linux device trees, desktop OS support, and NPU bring-up.
 - Upstreamed a Trusted Firmware-A RK3576 fix after review by engineers from STMicroelectronics, Google, and Rockchip.
-- Developed OP-TEE RK3576 platform support and Secure OTP/HUK integration; the platform port passed checks, was reproduced on hardware, and is approved pending merge.
+- Developed OP-TEE RK3576 platform support and Secure OTP/HUK integration; Initial support (PR #7821) was merged into OP-TEE master.
 - Created tools for SoC device-tree consistency checking and Rockchip firmware flashing.
 
 Selected work: [edk2-rk3576](https://github.com/gahingwoo/edk2-rk3576) · [bl32-rk3576](https://github.com/gahingwoo/bl32-rk3576) · [linux-rk3576-npu](https://github.com/gahingwoo/linux-rk3576-npu) · [SoC-Consistency](https://github.com/gahingwoo/SoC-Consistency) · [RKDevelopTool-GUI](https://github.com/gahingwoo/RKDevelopTool-GUI)
