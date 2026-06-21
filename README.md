@@ -3,7 +3,7 @@
 Final-year high school student preparing to begin university. I work on low-level firmware, embedded Linux, and ARM platform bring-up, especially around the Rockchip RK3576.
 
 - Built RK3576 software stacks across TF-A, OP-TEE, U-Boot, EDK2/UEFI, Linux device trees, desktop OS support, and NPU bring-up.
-- Upstreamed a Trusted Firmware-A fix for RK3576, reviewed and merged by engineers from STMicroelectronics, Google, and Rockchip.
+- Upstreamed a fix to Trusted Firmware-A — Arm's official firmware project — reviewed by engineers at Arm, ST, and Rockchip and merged into the mainline tree.
 - Developed OP-TEE RK3576 platform support and Secure OTP/HUK integration; Initial support (PR #7821) was merged into OP-TEE master.
 - Created tools for SoC device-tree consistency checking and Rockchip firmware flashing.
 
