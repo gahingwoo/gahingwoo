@@ -12,6 +12,4 @@ mainline kernel — Qwen2.5-1.5B at ~9 tok/s, MobileNet at ~160 fps — and I'm 
 its undocumented register interface to help bring an open-source driver to the whole 
 RK35xx family.
 
-Work: [kiln](https://github.com/gahingwoo/kiln) · [edk2-rk3576](https://github.com/gahingwoo/edk2-rk3576) · [bl32-rk3576](https://github.com/gahingwoo/bl32-rk3576) · [linux-rk3576-npu](https://github.com/gahingwoo/linux-rk3576-npu) · [SoC-Consistency](https://github.com/gahingwoo/SoC-Consistency) · [RKDevelopTool-GUI](https://github.com/gahingwoo/RKDevelopTool-GUI) 
-
-Refs: [OP-TEE #7821](https://github.com/OP-TEE/optee_os/pull/7821) · [OP-TEE #7841](https://github.com/OP-TEE/optee_os/pull/7841) · [TF-A #51089](https://review.trustedfirmware.org/c/TF-A/trusted-firmware-a/+/51089) · [gahingwoo.github.io](https://gahingwoo.github.io/)
+Works & Refs: [kiln](https://github.com/gahingwoo/kiln) · [edk2-rk3576](https://github.com/gahingwoo/edk2-rk3576) · [bl32-rk3576](https://github.com/gahingwoo/bl32-rk3576) · [linux-rk3576-npu](https://github.com/gahingwoo/linux-rk3576-npu) · [SoC-Consistency](https://github.com/gahingwoo/SoC-Consistency) · [RKDevelopTool-GUI](https://github.com/gahingwoo/RKDevelopTool-GUI) · [OP-TEE #7821](https://github.com/OP-TEE/optee_os/pull/7821) · [OP-TEE #7841](https://github.com/OP-TEE/optee_os/pull/7841) · [TF-A #51089](https://review.trustedfirmware.org/c/TF-A/trusted-firmware-a/+/51089) · [gahingwoo.github.io](https://gahingwoo.github.io/)
