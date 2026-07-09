@@ -8,7 +8,7 @@ I've brought the RK3576 up the entire stack myself — TF-A, OP-TEE, U-Boot, EDK
 Linux device trees, NPU. I landed a fix in Trusted Firmware-A (reviewed by Arm, ST and 
 Rockchip engineers, merged to mainline) and shipped RK3576 platform support in OP-TEE 
 (PR #7821). Most recently I got the RK3576 NPU running real LLMs and vision models on a 
-mainline kernel — Qwen2.5-1.5B at ~9 tok/s, MobileNet at ~160 fps — and I'm mapping out 
+mainline kernel — Llama-3.2-1B at ~13 tok/s or (Qwen2.5-1.5B at ~9), MobileNet at ~150 fps — and I'm mapping out 
 its undocumented register interface to help bring an open-source driver to the whole 
 RK35xx family.
 
