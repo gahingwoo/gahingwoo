@@ -7,3 +7,5 @@ I brought the Rockchip RK3576 up the entire stack myself — TF-A, OP-TEE, U-Boo
 Lately I've extended the same isolation work across profiles and ISAs on the RP2350: a minimal, SWD-verified TrustZone-M example on Cortex-M33 (isolation proven by a caught SecureFault, secret never leaks), plus a sibling RISC-V PMP isolation example on the Hazard3 cores.
 
 Works & Refs: [kiln](https://github.com/gahingwoo/kiln) · [edk2-rk3576](https://github.com/gahingwoo/edk2-rk3576) · [bl32-rk3576](https://github.com/gahingwoo/bl32-rk3576) · [linux-rk3576-npu](https://github.com/gahingwoo/linux-rk3576-npu) · [rp2350-tz-tee](https://github.com/gahingwoo/rp2350-tz-tee) · [SoC-Consistency](https://github.com/gahingwoo/SoC-Consistency) · [RKDevelopTool-GUI](https://github.com/gahingwoo/RKDevelopTool-GUI) · [OP-TEE #7821](https://github.com/OP-TEE/optee_os/pull/7821) · [OP-TEE #7841](https://github.com/OP-TEE/optee_os/pull/7841) · [TF-A #51089](https://review.trustedfirmware.org/c/TF-A/trusted-firmware-a/+/51089) · [gahingwoo.github.io](https://gahingwoo.github.io/)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21348017.svg)](https://doi.org/10.5281/zenodo.21348017)
