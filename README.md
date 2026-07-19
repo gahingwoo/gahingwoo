@@ -2,7 +2,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0840--8951-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0840-8951) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21348017.svg)](https://doi.org/10.5281/zenodo.21348017) ![Focus](https://img.shields.io/badge/focus-silicon_bring--up-blue) ![Status](https://img.shields.io/badge/status-working-brightgreen)
 
-Final-year high school student, but most of my real work happens upstream. I live in the low-level guts of ARM and RISC-V platforms: firmware, TEEs, embedded Linux, and silicon bring-up, across Cortex-A, Cortex-M, and RISC-V.
+I live in the low-level guts of ARM and RISC-V platforms: firmware, TEEs, embedded Linux, and silicon bring-up, across Cortex-A, Cortex-M, and RISC-V.
 
 I brought the Rockchip RK3576 up the entire stack myself: TF-A, OP-TEE, U-Boot, EDK2/UEFI, Linux device trees, NPU. I landed a fix in Trusted Firmware-A (reviewed by Arm, ST and Rockchip engineers, merged to mainline) and shipped RK3576 platform support in OP-TEE (PR #7821).
 
