@@ -1,6 +1,6 @@
 # Ga Hing Woo (Jiaxing Hu)
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0840--8951-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0840-8951) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21348017.svg)](https://doi.org/10.5281/zenodo.21348017) ![Focus](https://img.shields.io/badge/focus-silicon_bring--up-blue) ![Status](https://img.shields.io/badge/status-working-brightgreen)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--0840--8951-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-0840-8951) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21348016.svg)](https://doi.org/10.5281/zenodo.21348016) ![Focus](https://img.shields.io/badge/focus-silicon_bring--up-blue) ![Status](https://img.shields.io/badge/status-working-brightgreen)
 
 I live in the low-level guts of ARM and RISC-V platforms: firmware, TEEs, embedded Linux, and silicon bring-up, across Cortex-A, Cortex-M, and RISC-V.
 
