@@ -4,7 +4,7 @@
 
 I live in the low-level guts of ARM and RISC-V platforms: firmware, TEEs, embedded Linux, and silicon bring-up, across Cortex-A, Cortex-M, and RISC-V.
 
-I brought the Rockchip RK3576 up the entire stack myself: TF-A, OP-TEE, U-Boot, EDK2/UEFI, Linux device trees, NPU. Merged fixes in Trusted Firmware-A and OP-TEE (PR #7821), plus two IOMMU fixes and a devicetree series applied directly by the IOMMU and Rockchip SoC maintainers (the IOMMU pair is now in linux-next).
+I brought the Rockchip RK3576 up the entire stack myself: TF-A, OP-TEE, U-Boot, EDK2/UEFI, Linux device trees, NPU. Merged fixes in Trusted Firmware-A and OP-TEE (PR #7821), plus two IOMMU fixes and a devicetree series applied directly by the IOMMU and Rockchip SoC maintainers (all four now in mainline for 7.3).
 
 On the NPU I worked both stacks: the vendor runtime (RKNPU/RKLLM) running real LLMs and vision on a mainline kernel (Llama-3.2-1B ~13 tok/s, MobileNet ~169 fps), and the fully open rocket driver, where I reverse-engineered the compute registers until MobileNet V1 classified end to end on the NPU. Version 1 of that preprint blamed the hardware for chained layers stalling; it was a 16-bit field written as 12, and version 2 withdraws it and is mostly about how the error survived thirty-eight days. I also review other contributors' patches in that driver: caught a real bug in one, and got a Tested-by back on my own series from hardware I don't own.
 
